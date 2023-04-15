@@ -1,4 +1,4 @@
-# SIM7080G-ATT-NB-IOT-HTTP-HTTPS-Test
+# SIM7080G-INCE-NB-IOT-HTTP-HTTPS-Test
 
 Important claim -
  
